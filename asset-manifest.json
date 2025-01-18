@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carriyva/static/css/main.7f735496.css",
-    "main.js": "/carriyva/static/js/main.05bb86d4.js",
+    "main.js": "/carriyva/static/js/main.c41538c0.js",
     "static/js/154.4c666075.chunk.js": "/carriyva/static/js/154.4c666075.chunk.js",
     "static/js/606.879a7ba4.chunk.js": "/carriyva/static/js/606.879a7ba4.chunk.js",
     "static/js/229.fcbf3421.chunk.js": "/carriyva/static/js/229.fcbf3421.chunk.js",
@@ -44,7 +44,7 @@
     "static/media/twitter.svg": "/carriyva/static/media/twitter.0ea486dca345b3edb52ae7a0b661ff2d.svg",
     "index.html": "/carriyva/index.html",
     "main.7f735496.css.map": "/carriyva/static/css/main.7f735496.css.map",
-    "main.05bb86d4.js.map": "/carriyva/static/js/main.05bb86d4.js.map",
+    "main.c41538c0.js.map": "/carriyva/static/js/main.c41538c0.js.map",
     "154.4c666075.chunk.js.map": "/carriyva/static/js/154.4c666075.chunk.js.map",
     "606.879a7ba4.chunk.js.map": "/carriyva/static/js/606.879a7ba4.chunk.js.map",
     "229.fcbf3421.chunk.js.map": "/carriyva/static/js/229.fcbf3421.chunk.js.map",
@@ -53,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.7f735496.css",
-    "static/js/main.05bb86d4.js"
+    "static/js/main.c41538c0.js"
   ]
 }
