@@ -20,7 +20,7 @@ const InputField = ({ label, id, type = "text" }) => (
       type={type}
       id={id}
       name={id}
-      className="flex-1 w-full text-base outline-none bg-transparent"
+      className="flex-1 w-full text-base outline-none border-none bg-transparent"
     />
   </div>
 );
@@ -74,7 +74,7 @@ const PickupLocation = ({ onSubmit }) => {
             id="phone"
             name="phone"
             placeholder="Phone Number"
-            className="flex-1 w-full text-base outline-none bg-transparent font-semibold placeholder:text-gray-400 pt-2 px-5"
+            className="flex-1 w-full text-base outline-none border-none bg-transparent font-semibold placeholder:text-gray-400 pt-2 px-5"
           />
         </div>
         <div className="flex justify-center">

@@ -68,7 +68,7 @@ const MessageUs = () => {
         placeholder="Message"
         value={formData.message}
         onChange={handleChange}
-        className="flex-1 text-black text-base outline-none bg-transparent w-full h-full resize-none"
+        className="flex-1 text-black text-base outline-none border-none bg-transparent w-full h-full resize-none"
         aria-label="Enter your message"
       />
     </div>

@@ -18,7 +18,7 @@ const LoginSignup = lazy(() => import("./Pages/LoginSignup"));
 
 // Route configuration
 const ROUTES = [
-  { path: "/", component: <Home /> },
+  { path: "/carriyva", component: <Home /> },
   { path: "/career", component: <Career /> },
   { path: "/aboutUs", component: <About /> },
   { path: "/contactUs", component: <ContactUs /> },

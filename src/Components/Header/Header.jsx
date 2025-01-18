@@ -22,7 +22,7 @@ const Header = React.memo(() => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const links = [
-    { text: "Services", link: "/" },
+    { text: "Services", link: "/carriyva" },
     { text: "Career", link: "/career" },
     { text: "About Us", link: "/aboutUs" },
     { text: "Contact Us", link: "/contactUs" },
